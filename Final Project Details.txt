@@ -1,4 +1,4 @@
-**Epileptic Seizure Detection using Machine Learning**
+Epileptic Seizure Detection using Machine Learning
 
 ---
 
